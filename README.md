@@ -57,38 +57,8 @@
 
 ---
 
-# 🚀 Currently Building
 
-### 🎓 Smart Attendance Management System
-
-An attendance system designed to help prevent attendance proxying using:
-
-- 👤 Face Verification
-- 👁️ Liveness Detection
-- 📍 Geofencing
-- 📴 Offline Attendance
-- 🔄 Background Synchronization
-- 📊 Attendance Analytics
-- 📱 Flutter Mobile Application
-- 🌐 React Web Dashboard
-- ⚙️ Laravel Backend
-- 🧠 Python AI Service
-
----
-
-### 🌊 IoT Flood Monitoring System
-
-A real-time flood monitoring system using:
-
-- ESP8266 / ESP-12E
-- HC-SR04 Ultrasonic Sensors
-- YF-S201 Flow Sensor
-- Python & Flask
-- MySQL
-- Real-time Web Dashboard
-
----
 
 <p align="center">
-  <b>Build • Learn • Improve • Repeat</b>
+  <b>Eat • Sleep • Code • Repeat</b>
 </p>
